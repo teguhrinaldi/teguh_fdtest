@@ -71,14 +71,4 @@ TailwindCSS
 Bcrypt (untuk enkripsi password)
 
 
-📌 Fitur Utama
-✅ Authentication (Login, Register, Forgot Password, Email Verification)
-✅ Manajemen Buku (CRUD)
-✅ User List + Filtering & Search
-✅ Landing Page untuk publik
-✅ Unit Test & Integration Test
 
-📬 Catatan
-Pastikan semua service berjalan dengan baik (PostgreSQL, PHP, Node.js).
-Untuk email verification & forgot password, sesuaikan konfigurasi SMTP di .env.
-Password user diamankan menggunakan Bcrypt.
