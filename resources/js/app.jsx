@@ -1,4 +1,4 @@
-// resources/js/app.jsx
+
 import "../css/app.css";
 import "./bootstrap";
 
