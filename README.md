@@ -9,12 +9,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
 🔹 1. Clone Repository
 Clone project ke komputer lokal kamu:
 
-bash
-Salin
-Edit
-git clone https://github.com/namakamu_fdtest.git
-cd namakamu_fdtest
-⚠️ Jangan lupa ganti namakamu dengan nama kamu sendiri.
+
 
 🔹 2. Install Dependencies
 Backend (Laravel)
@@ -62,30 +57,26 @@ php artisan migrate --seed
 
 🔹 6. Run Project
 Jalankan Laravel:
-bash
-Salin
-Edit
+
 php artisan serve
+
 Jalankan Vite:
-bash
-Salin
-Edit
+
 npm run dev
 
 🔹 7. Akses Aplikasi
 Buka di browser:
-
-cpp
-Salin
-Edit
 http://127.0.0.1:8000
+
 ⚡ Tech Stack
 Laravel 10.x
 Inertia.js
 PostgreSQL
 Vite
-TailwindCSS (opsional jika digunakan)
+TailwindCSS 
 Bcrypt (untuk enkripsi password)
+
+
 📌 Fitur Utama
 ✅ Authentication (Login, Register, Forgot Password, Email Verification)
 ✅ Manajemen Buku (CRUD)
